@@ -1,0 +1,30 @@
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.exe
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.deps.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\bin\Debug\net9.0\Task1.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.sourcelink.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\bin\Debug\net9.0\Task1.exe
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\bin\Debug\net9.0\Task1.deps.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\bin\Debug\net9.0\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\bin\Debug\net9.0\Task1.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.sourcelink.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll

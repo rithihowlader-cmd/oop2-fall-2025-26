@@ -1,0 +1,15 @@
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\bin\Debug\net9.0\Task4.exe
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\bin\Debug\net9.0\Task4.deps.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\bin\Debug\net9.0\Task4.runtimeconfig.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\bin\Debug\net9.0\Task4.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\bin\Debug\net9.0\Task4.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.AssemblyInfoInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.AssemblyInfo.cs
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.csproj.CoreCompileInputs.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.sourcelink.json
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\refint\Task4.dll
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.pdb
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\Task4.genruntimeconfig.cache
+D:\oop2-fall-2025-26\oop2-fall-2025-26\Lab Tasks\Task4\Task4\obj\Debug\net9.0\ref\Task4.dll
